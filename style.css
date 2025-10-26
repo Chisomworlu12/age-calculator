@@ -104,13 +104,10 @@ h1 span {
     left: auto; /* Override the left: 50% from mobile */
   }
   .container {
-    width: 550px;
+    width: 4000px;
   }
 }
 @media (min-width: 1024px) {
-  .container {
-    width: 40%;
-  }
   input {
     font-size: 35px;
     width: 100px;
