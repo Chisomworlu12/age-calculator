@@ -85,7 +85,7 @@ input p {
 h1 {
   font-weight: 900;
   letter-spacing: 3px;
-  font-size: 50px;
+  font-size: 35px;
 }
 h1 span {
   color: var(--color-Purple-500);
