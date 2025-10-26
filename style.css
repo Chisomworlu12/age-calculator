@@ -46,7 +46,7 @@ p {
   color: var(--color-Grey-500);
 }
 input {
-  width: 120px;
+  width: 70px;
   height: 60px;
   border-radius: 5px;
   padding: 2px;
