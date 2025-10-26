@@ -104,7 +104,7 @@ h1 span {
     left: auto; /* Override the left: 50% from mobile */
   }
   .container {
-    width: 4000px;
+    width: 400px;
   }
 }
 @media (min-width: 1024px) {
